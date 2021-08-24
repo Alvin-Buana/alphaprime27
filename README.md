@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @alphaprime27
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning
-- 📫 How to reach me through my email on farelarden13@gmail.com
-
-<!---
-alphaprime27/alphaprime27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Halo semua! 
+👋 Perkenalkan nama saya **Farel Arden**
+Saya adalah seorang mahasiswa dari universitas Presiden, 
+Kontak saya lewat:
+* Email: farelarden13@gmail.com
+* [Kaggle](https://www.kaggle.com/farelarden)
+<!-- Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
+Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya. -->
+ 
+<p align="left">
+<a href="https://github.com/alphaprime27">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alphaprime27&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alphaprime27&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
